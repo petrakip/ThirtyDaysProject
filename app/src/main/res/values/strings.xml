@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Thirty Days</string>
+
+    <!-- Day 1 -->
+    <string name="day1_title">Santorini - Oia Sunset</string>
+    <string name="day1_desc">Experience one of the most breathtaking sunsets in the world as the sun dips into the Aegean Sea. The white houses and blue domes create a magical atmosphere you won\'t forget.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Mykonos - Windmills</string>
+    <string name="day2_desc">Visit the famous windmills overlooking the sea and explore the charming streets of Mykonos town. The island is known for its vibrant energy and beautiful views.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Zakynthos - Navagio Beach</string>
+    <string name="day3_desc">Discover the iconic shipwreck beach surrounded by dramatic cliffs and crystal-clear waters. It\'s one of the most photographed places in Greece.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Milos - Sarakiniko Beach</string>
+    <string name="day4_desc">Walk across unique white rock formations shaped by the sea and wind. The landscape looks like something from another planet.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">Crete - Balos Lagoon</string>
+    <string name="day5_desc">Relax in a stunning lagoon with shallow turquoise waters and soft white sand. The view from above is simply unforgettable.</string>
+
+    <!-- Day 6 -->
+    <string name="day6_title">Rhodes - Old Town</string>
+    <string name="day6_desc">Step into a medieval world with stone streets, ancient walls, and historic buildings. It feels like traveling back in time.</string>
+
+    <!-- Day 7 -->
+    <string name="day7_title">Corfu - Paleokastritsa</string>
+    <string name="day7_desc">Enjoy a mix of green hills and deep blue waters in one of Corfu\'s most beautiful areas. Perfect for relaxing and exploring nature.</string>
+
+    <!-- Day 8 -->
+    <string name="day8_title">Acropolis of Athens</string>
+    <string name="day8_desc">Visit the most important ancient monument of Greece and admire the Parthenon. It also offers amazing views over the city.</string>
+
+    <!-- Day 9 -->
+    <string name="day9_title">Meteora Monasteries</string>
+    <string name="day9_desc">Explore incredible monasteries built on top of tall rock pillars. The scenery is both peaceful and dramatic.</string>
+
+    <!-- Day 10 -->
+    <string name="day10_title">Delphi</string>
+    <string name="day10_desc">Walk through the ancient sanctuary once believed to be the center of the world. Surrounded by mountains, it has a unique atmosphere.</string>
+
+    <!-- Day 11 -->
+    <string name="day11_title">Epidaurus Theatre</string>
+    <string name="day11_desc">Stand in one of the best-preserved ancient theatres and experience its perfect acoustics. Even a whisper can be heard clearly.</string>
+
+    <!-- Day 12 -->
+    <string name="day12_title">Knossos Palace</string>
+    <string name="day12_desc">Discover the legendary palace connected to the myth of the Minotaur. It reveals the advanced Minoan civilization.</string>
+
+    <!-- Day 13 -->
+    <string name="day13_title">Mycenae</string>
+    <string name="day13_desc">Explore the ruins of an ancient kingdom and walk through the famous Lion Gate. A place full of history and mystery.</string>
+
+    <!-- Day 14 -->
+    <string name="day14_title">Olympia</string>
+    <string name="day14_desc">Visit the birthplace of the Olympic Games and see where ancient athletes once competed. A truly inspiring historical site.</string>
+
+    <!-- Day 15 -->
+    <string name="day15_title">Vikos Gorge</string>
+    <string name="day15_desc">Admire one of the deepest gorges in the world with breathtaking natural beauty. Ideal for hiking and photography.</string>
+
+    <!-- Day 16 -->
+    <string name="day16_title">Samaria Gorge</string>
+    <string name="day16_desc">Walk through a long and impressive canyon surrounded by wild nature. One of the best hiking experiences in Greece.</string>
+
+    <!-- Day 17 -->
+    <string name="day17_title">Prespa Lakes</string>
+    <string name="day17_desc">Enjoy peaceful landscapes with lakes, mountains, and rare wildlife. A hidden gem in northern Greece.</string>
+
+    <!-- Day 18 -->
+    <string name="day18_title">Mount Olympus</string>
+    <string name="day18_desc">Climb the legendary mountain of the Greek gods and enjoy incredible views. Perfect for adventure lovers.</string>
+
+    <!-- Day 19 -->
+    <string name="day19_title">Voidokilia Beach</string>
+    <string name="day19_desc">Relax on a perfectly shaped beach with golden sand and clear water. Its natural beauty is truly unique.</string>
+
+    <!-- Day 20 -->
+    <string name="day20_title">Porto Katsiki</string>
+    <string name="day20_desc">Visit a stunning beach with white cliffs and deep blue waters. One of the most impressive coastal views in Greece.</string>
+
+    <!-- Day 21 -->
+    <string name="day21_title">Elafonissi Beach</string>
+    <string name="day21_desc">Relax on a unique beach with pink sand and shallow crystal-clear waters. Its exotic beauty makes it one of the most special places in Greece.</string>
+
+    <!-- Day 22 -->
+    <string name="day22_title">Thessaloniki - White Tower</string>
+    <string name="day22_desc">Explore a lively city full of culture, history, and great food. The White Tower is its most famous landmark.</string>
+
+    <!-- Day 23 -->
+    <string name="day23_title">Nafplio - Old Town</string>
+    <string name="day23_desc">Walk through romantic streets with colorful buildings and sea views. One of the most beautiful towns in Greece.</string>
+
+    <!-- Day 24 -->
+    <string name="day24_title">Chania - Old Harbor</string>
+    <string name="day24_desc">Enjoy a picturesque harbor with Venetian architecture and cozy cafes. Perfect for relaxing evening walks.</string>
+
+    <!-- Day 25 -->
+    <string name="day25_title">Ioannina - Lake Pamvotida</string>
+    <string name="day25_desc">Relax by the calm lake and explore the historic town nearby. A peaceful and scenic destination.</string>
+
+    <!-- Day 26 -->
+    <string name="day26_title">Athens - Night Life</string>
+    <string name="day26_desc">Experience the vibrant nightlife of Greece\'s capital with music, food, and amazing views of the Acropolis.</string>
+
+    <!-- Day 27 -->
+    <string name="day27_title">Kavala - Aqueduct</string>
+    <string name="day27_desc">See the impressive aqueduct that dominates the city\'s skyline. A unique mix of history and seaside charm.</string>
+
+    <!-- Day 28 -->
+    <string name="day28_title">Volos - Seaside</string>
+    <string name="day28_desc">Take a relaxing walk along the waterfront and enjoy traditional Greek food. A perfect blend of city and sea.</string>
+
+    <!-- Day 29 -->
+    <string name="day29_title">Monemvasia</string>
+    <string name="day29_desc">Discover a magical castle town built on a rock by the sea. Its narrow streets and views feel like a fairytale.</string>
+
+    <!-- Day 30 -->
+    <string name="day30_title">Parga</string>
+    <string name="day30_desc">Visit a colorful coastal town with beautiful beaches and island-like vibes. A perfect place to end your journey.</string>
+</resources>
