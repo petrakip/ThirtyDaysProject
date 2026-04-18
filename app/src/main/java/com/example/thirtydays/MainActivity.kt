@@ -11,8 +11,11 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material3.Card
@@ -33,6 +36,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.rotate
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
@@ -75,11 +79,11 @@ fun ThirtyDaysApp(places: List<Place>, modifier: Modifier = Modifier) {
         }
     ) { it ->
         LazyColumn(contentPadding = it) {
-            items(places.size) { index ->
+            items(places) { place ->
                 PlaceItem(
-                    place = places[index],
+                    place = place,
                     modifier = Modifier.padding(8.dp)
-                    )
+                )
             }
         }
     }
@@ -121,7 +125,12 @@ fun PlaceItem(place: Place, modifier: Modifier = Modifier) {
         Image(
             painter = painterResource(id = place.imageRes),
             contentDescription = null,
-            modifier = Modifier.padding(12.dp))
+            modifier = Modifier
+                .fillMaxWidth()
+                .height(200.dp)
+                .padding(12.dp),
+            contentScale = ContentScale.Crop
+        )
         if (expanded) {
             Text(
                 text = stringResource(id = place.descriptionRes),
