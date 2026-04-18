@@ -63,7 +63,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun ThirtyDaysApp(places: List<Place>, modifier: Modifier = Modifier) {
     Scaffold(
-        containerColor = MaterialTheme.colorScheme.primary,
+        containerColor = MaterialTheme.colorScheme.onPrimary,
         topBar = {
             CenterAlignedTopAppBar(
                 title = {
@@ -72,8 +72,8 @@ fun ThirtyDaysApp(places: List<Place>, modifier: Modifier = Modifier) {
                 style = MaterialTheme.typography.displayLarge
                 )},
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.primary,
-                    titleContentColor = MaterialTheme.colorScheme.onPrimary
+                    containerColor = MaterialTheme.colorScheme.onPrimary,
+                    titleContentColor = MaterialTheme.colorScheme.primary
                 )
             )
         }
