@@ -8,19 +8,23 @@ A modern Android application built with **Jetpack Compose** that presents 30 dai
 
 ### ☀️ Light Mode
 
-| Home | Expanded |
-|------|---------|
-| ![](screenshots/home_light.png) | ![](screenshots/expanded_light.png) |
+<p align="center">
+  <img src="screenshots/home_light.png" width="250"/>
+  <img src="screenshots/expanded_light.png" width="250"/>
+</p>
 
 ### 🌙 Dark Mode
 
-| Home | Expanded |
-|------|---------|
-| ![](screenshots/home_dark.png) | ![](screenshots/expanded_dark.png) |
+<p align="center">
+  <img src="screenshots/home_dark.png" width="250"/>
+  <img src="screenshots/expanded_dark.png" width="250"/>
+</p>
 
 ## 🎬 Demo
 
-![App Demo](screenshots/demo.gif)
+<p align="center">
+  <img src="screenshots/demo.gif" width="300"/>
+</p>
 
 ## 🎯 Project Overview
 
