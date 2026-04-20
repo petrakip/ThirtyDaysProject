@@ -1,4 +1,4 @@
-# 📱 ThirtyDays App
+# 📱 Thirty Days App
 
 A modern Android application built with **Jetpack Compose** that presents 30 daily greek places using a clean UI, custom design system, and smooth animations.
 
