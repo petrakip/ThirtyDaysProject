@@ -1,14 +1,32 @@
 # 📱 ThirtyDays App
 
-A modern Android application built with **Jetpack Compose** that presents 30 daily tips using a clean UI, custom design system, and smooth animations.
+A modern Android application built with **Jetpack Compose** that presents 30 daily greek places using a clean UI, custom design system, and smooth animations.
 
 ---
+
+## 📸 Screenshots
+
+### ☀️ Light Mode
+
+| Home | Expanded |
+|------|---------|
+| ![](screenshots/home_light.png) | ![](screenshots/expanded_light.png) |
+
+### 🌙 Dark Mode
+
+| Home | Expanded |
+|------|---------|
+| ![](screenshots/home_dark.png) | ![](screenshots/expanded_dark.png) |
+
+## 🎬 Demo
+
+![App Demo](screenshots/demo.gif)
 
 ## 🎯 Project Overview
 
 This app was created as part of a UI-focused project where the goal is to:
 
-* Display **30 tips (one for each day)**
+* Display **30 greek places (one for each day)**
 * Use **images and text**
 * Present content in a **scrollable list**
 * Follow **Material Design guidelines**
